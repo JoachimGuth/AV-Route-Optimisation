@@ -1,7 +1,7 @@
 # Final project of the AI Builder course - Uni Helsinki
 
-# Your idea in a nutshell
-Name your project and prepare to describe it briefly.
+# Idea in a nutshell
+% Name your project and prepare to describe it briefly.
 
 'Route Optimisation' of an autonomous vehicle in a city area disconnected to public transport.
 
