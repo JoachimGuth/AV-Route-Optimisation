@@ -9,7 +9,11 @@
 > What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic > important or interesting?
 
 An automous vehicle is driving around a confined city area to pick up residents from their homes to bring them to a fixed number of destinations. The fixed destinations are bus stops, train station, public pick up places. 
-The residents can also travel back from the fixed locations to their homes. The autonomous vehicle covers the last mile to home and is moving continously. The AV tries to permanently optimise its route based on experiences from past routes and calls from passengers. The passengers are using an app which allows them to submit a call from their current locstion to one of the fixed locationns or from one of  the  fixed locations to their home. Pick up points from homelocations are predetermined and fixed.
+The residents can also travel back from the fixed locations to their homes.
+
+The autonomous vehicle covers the last mile to home and is moving continously. The AV tries to permanently optimise its route based on experiences from past routes and calls from passengers. The passengers are using an app which allows them to submit a call from their current locstion to one of the fixed locationns or from one of  the  fixed locations to their home. Pick up points from homelocations are predetermined and fixed.
+
+The route optimisation would lead ultimately to cost savings and less energy consumption. 
 
 
 
@@ -38,6 +42,11 @@ The residents can also travel back from the fixed locations to their homes. The 
 > viewpoints of all those affected.
 
 Residents of a fairly remote city area not well connected to the public transport system will use the AV to reach a public transport location or reach home from the public transport location.
+
+Parties involved:
+* passengers
+* bus operator
+* city planners
 
 
 # Challenges
