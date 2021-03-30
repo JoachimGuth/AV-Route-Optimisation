@@ -34,21 +34,23 @@ The residents can also travel back from the fixed locations to their homes. The 
 
 
 # How is it used: 
-What is the context in which your solution is used, and by whom? Who are the people affected by it? It’s important to appreciate the viewpoints of all those affected.
+> What is the context in which your solution is used, and by whom? Who are the people affected by it? It’s important to appreciate the
+> viewpoints of all those affected.
 
 Residents of a fairly remote city area not well connected to the public transport system will use the AV to reach a public transport location or reach home from the public transport location.
 
 
 # Challenges
 
-What does your project not solve? It’s important to understand that any technological solution will have its limitations.
-What next: How could your project grow and become something even more?
+> What does your project not solve? It’s important to understand that any technological solution will have its limitations.
+> What next: How could your project grow and become something even more?
 
 Target would be to achieve an optimal travelling time for each passenger (direct route) but this is not possible as many passengers have to be served.
 
 
 # Acknowledgments: 
-If you’re using open source code or documents in your project, make sure you give credit to the creators. Mention your sources of inspiration, too.
+> If you’re using open source code or documents in your project, make sure you give credit to the creators. Mention your sources of
+> inspiration, too.
 
 So far not used any references.
 
