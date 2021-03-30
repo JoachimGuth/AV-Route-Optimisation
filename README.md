@@ -1,5 +1,3 @@
-# Final project of the AI Builder course - Uni Helsinki
-
 ## Summary
 > Name your project and prepare to describe it briefly.
 
