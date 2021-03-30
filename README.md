@@ -1,9 +1,12 @@
 # Final project of the AI Builder course - Uni Helsinki
 
-# Idea in a nutshell
+# Summary
 > Name your project and prepare to describe it briefly.
 
-'Route Optimisation' of an autonomous vehicle in a city area disconnected to public transport.
+'AV Route Optimisation' of an autonomous vehicle in a city area disconnected to public transport.
+
+To bring passengers of a city area, which is isconnected to public transport, to public transport locations and back home.
+It is the target to optimise travelling time of passengers and overall distance travelled of the AV.
 
 # Background
 > What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic > important or interesting?
