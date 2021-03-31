@@ -1,9 +1,15 @@
-##Summary
+
+## AV-Route Optimisation
+
+Building AI course project
+
+
+## Summary
 > Name your project and prepare to describe it briefly.
 
 'AV Route Optimisation' of an autonomous vehicle in a city area disconnected to public transport.
 
-Building AI course project
+
 
 To bring passengers of a city area, which is isconnected to public transport, to public transport locations and back home.
 It is the target to optimise travelling time of passengers and overall distance travelled of the AV.
