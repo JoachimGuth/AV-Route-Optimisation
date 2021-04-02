@@ -18,11 +18,11 @@ The autonomous buses bring passengers living in the  city area to various destin
 ## Background
 > What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic > important or interesting?
 > 
-The project improves public transport in a confined area of a city whichbis disconnected from public transport means with fixed routes like trains an buses.
+The project improves public transport in a confined city area which is disconnected from the major public transport system (train, underground, etc)
 
-Autonomous buses are driving around in the respective city area to pick up residents from their homes to bring them to a number of destinations in the area. The destinations are bus stops, train station, public pick up places, other homes and public other selectable locations of interest.
+Autonomous buses are driving around in the respective city area to pick up residents from their homes to bring them to a number of destinations in the area. The destinations can be bus stops, train station, public pick up places, other homes and otherv places of interest.
 
-It is the target of the project to optimise travelling time of passengers and to minimize the overall distance travelled by the AV.
+It is the target of the project to optimise travelling time of passengers and to minimize the overall distance travelled by the AVs.
 
 
 The autonomous buses try to permanently optimise their routes based on passenger's destinations, experiences from past routes and calls from passengers. 
