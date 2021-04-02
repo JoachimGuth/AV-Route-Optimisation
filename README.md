@@ -1,28 +1,35 @@
 
 # AV-Route Optimisation
 
-Building AI course project
+A project submission for the Building AI course of the Uni Helsinki.
 
 
 ## Summary
 > Name your project and prepare to describe it briefly.
 
 Name: 'AV Route Optimisation' 
-This project is about the route optimisation of autonomous buses circling and roaming in a city area which is disconnected to public transport.
 
-The autonomous bus bring passengers living in a city area, which is disconnected to public transport, to various destinations in the area. Those destinations can be public transport stations or other homes in the area.
+This project is about the route optimisation of autonomous buses circling and roaming around in a city area which is disconnected to public transport.
 
-It is the target of the project to optimise travelling time of passengers and to minimize the overall distance travelled by the AV.
+The autonomous buses bring passengers living in the  city area to various destinations in the area. Those destinations can be public transport stations, pick up points or other homes in the area.
+
+
 
 ## Background
 > What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic > important or interesting?
+> 
+The project improves public transport in a confined area of a city whichbis disconnected from public transport means with fixed routes like trains an buses.
 
-An automous vehicle is driving around a confined city area to pick up residents from their homes to bring them to a fixed number of destinations. The fixed destinations are bus stops, train station, public pick up places. 
-The residents can also travel back from the fixed locations to their homes.
+Autonomous buses are driving around in the respective city area to pick up residents from their homes to bring them to a number of destinations in the area. The destinations are bus stops, train station, public pick up places, other homes and public other selectable locations of interest.
 
-The autonomous vehicle covers the last mile to home and is moving continously. The AV tries to permanently optimise its route based on experiences from past routes and calls from passengers. The passengers are using an app which allows them to submit a call from their current locstion to one of the fixed locationns or from one of  the  fixed locations to their home. Pick up points from homelocations are predetermined and fixed.
+It is the target of the project to optimise travelling time of passengers and to minimize the overall distance travelled by the AV.
 
-The route optimisation would lead ultimately to cost savings and less energy consumption. 
+
+The autonomous buses try to permanently optimise their routes based on passenger's destinations, experiences from past routes and calls from passengers. 
+
+The passengers are using an app which allows them to submit a call from their current location to one of the registered locations in the area.
+
+The route optimisation would lead ultimately to cost savings and reduced energy consumption. 
 
 
 
