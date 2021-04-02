@@ -7,12 +7,12 @@ Building AI course project
 ## Summary
 > Name your project and prepare to describe it briefly.
 
-'AV Route Optimisation' of an autonomous vehicle in a city area disconnected to public transport.
+Name: 'AV Route Optimisation' 
+This project is about the route optimisation of autonomous buses circling and roaming in a city area which is disconnected to public transport.
 
+The autonomous bus bring passengers living in a city area, which is disconnected to public transport, to various destinations in the area. Those destinations can be public transport stations or other homes in the area.
 
-
-To bring passengers of a city area, which is isconnected to public transport, to public transport locations and back home.
-It is the target to optimise travelling time of passengers and overall distance travelled of the AV.
+It is the target of the project to optimise travelling time of passengers and to minimize the overall distance travelled by the AV.
 
 ## Background
 > What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic > important or interesting?
