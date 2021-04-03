@@ -1,7 +1,7 @@
 
 # AV-Route Optimisation
 
-A project submission for the Building AI course of the Uni Helsinki.
+A project submission for the Building AI course of the University of Helsinki.
 
 
 ## Summary
@@ -11,7 +11,7 @@ Name: 'AV Route Optimisation'
 
 This project is about the route optimisation of autonomous buses circling and roaming around in a city area which is disconnected to public transport.
 
-The autonomous buses bring passengers living in the  city area to various destinations in the area. Those destinations can be public transport stations, pick up points or other homes in the area.
+The autonomous buses bring passengers living in the respective city area to various destinations located in the area. Those destinations can be public transport stations, pick up points, homes or other locations in the area.
 
 
 
@@ -20,16 +20,20 @@ The autonomous buses bring passengers living in the  city area to various destin
 > 
 The project improves public transport in a confined city area which is disconnected from the major public transport system (train, underground, etc)
 
-Autonomous buses are driving around in the respective city area to pick up residents from their homes to bring them to a number of destinations in the area. The destinations can be bus stops, train station, public pick up places, other homes and otherv places of interest.
+Autonomous buses are driving around in the respective city area to pick up residents from their homes to bring them to a number of destinations in the area. The destinations can be bus stops, train station, public pick up places, other homes and other places of interest.
 
-It is the target of the project to optimise travelling time of passengers and to minimize the overall distance travelled by the AVs.
+The target of the project to optimise travelling and waiting time of passengers but also to minimize the overall distance travelled by the Autonomous Vehicles.
 
 
-The autonomous buses try to permanently optimise their routes based on passenger's destinations, experiences from past routes and calls from passengers. 
+The autonomous buses are permanently circeling the area and try to permanently optimise their routes based on passenger's on board and heir destinations, passenger's calls and where they want to go. Historical data, that means experience from past is collected to contribute to never ending optimisation. In fact the system should get better over time.
 
-The passengers are using an app which allows them to submit a call from their current location to one of the registered locations in the area.
+The passengers are using an application on their phone, which allows them to submit a call from their current location to one of the registered locations in the area.
 
 The route optimisation would lead ultimately to cost savings and reduced energy consumption. 
+
+I think this is a system which would greatly contribute to reduce energy consumption and increase the use of shared resources. 
+
+Personally I am still looking to contribute to continual reduction of CO2 emission. I am also living in an area in Singapore which resembles an area suitable for AV and the proposed idea.
 
 
 
